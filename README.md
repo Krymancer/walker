@@ -19,19 +19,19 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/latte.png"/>
+<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/frappe.png"/>
+<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/mocha.png"/>
+<img src="https://raw.githubusercontent.com/Krymancer/walker/refs/heads/main/assets/mocha.webp"/>
 </details>
 
 ## Usage
